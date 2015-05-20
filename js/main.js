@@ -1,4 +1,4 @@
-var words = ['head', 'heart', 'brain', 'toxic', 'cold', 'shock', 'bleed', 'venom', 'fire', 'snake', 'cobra', 'fang', 'flood', 'blast', 'bite', 'scorpion', 'stinger', 'spark', 'flame', 'swarm', 'weeping'];
+var words = ['head', 'heart', 'brain', 'toxic', 'cold', 'shock', 'bleed', 'venom', 'fire', 'snake', 'cobra', 'fang', 'flood', 'blast', 'bite', 'scorpion', 'stinger', 'spark', 'flame', 'swarm', 'weeping', 'hammer', 'punch', 'blade'];
 
 // http://stackoverflow.com/questions/11935175/sampling-a-random-subset-from-an-array
 function getRandomSubarray(arr, size) {
